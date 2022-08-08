@@ -1,7 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+HOW TO GET FIREBASE_API_KEY
+  1)Create account with firebase
+  2)Create new project with any name
+  3)Go to project console
+  4)click on Gear icon whick will be top-left side
+  5)Go to Project setting where you will find api key with 'Web API Key'
+  
+  
 ## Available Scripts
 
 In the project directory, you can run:
